@@ -1,0 +1,25 @@
+{
+    "todos": [
+        {
+            "title": "Task 1",
+            "responsible": "Mark",
+            "description": "Look at the task 1",
+            "priority": "High",
+            "completed": false
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Leo",
+            "description": "Look at the task 2",
+            "priority": "Low",
+            "completed": false
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Susan",
+            "description": "Look at the task 3",
+            "priority": "Medium",
+            "completed": false
+        }
+    ]
+}
